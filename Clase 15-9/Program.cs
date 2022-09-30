@@ -35,4 +35,5 @@
                 //Esto no deberia pasa nunca => si pasa tiro un error
                 throw new ApplicationException("Opcion Invalida");
             }
+        Console.WriteLine("---------------------------------------------");
         }
